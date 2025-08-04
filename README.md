@@ -4,7 +4,7 @@ Documentação do projeto desenvolvido como atividade da disciplina de [Análise
 ## 🛠️ Tecnologias Utilizadas
 
 - Documentação escrita em Markdown  
-- Diagramas elaborados com [Ferramenta usada]  
+- Diagramas elaborados com Astah  
 - Repositório hospedado no GitHub  
 
 ---
@@ -13,8 +13,7 @@ Documentação do projeto desenvolvido como atividade da disciplina de [Análise
 
 | **Nome**           | **Matrícula** |
 |--------------------|---------------|
-| Nome do Aluno 1    | 123456789     |
-| Nome do Aluno 2    | 123456790     |
-| Nome do Aluno 3    | 123456791     |
+| Gustavo Mesquita   |20241011110022 |
+| Heitor Torres      |20241011110010 |
 
 

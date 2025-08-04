@@ -6,4 +6,4 @@ Os principais casos de uso são:
 
 [Para mais detalhes dos casos de uso](DetalhesCDU.md)
 
-[Link para Diagrama de casos de uso](imagens/UseCase)
+[Link para Diagrama de casos de uso](imagens/diagramacdu.png)
